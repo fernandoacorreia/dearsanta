@@ -1,0 +1,8 @@
+Dear Santa
+==========
+
+Sample Play Framework Facebook web application in Scala with Cassandra.
+
+This file will be packaged with your application, when using `play dist`.
+
+play 2.2.0 built with Scala 2.10.2
